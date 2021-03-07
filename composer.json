@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "IT",
+    "description": "IT",
+    "psr-4": {
+      "ITApp\\": "app"
+    }
+  }
+}
